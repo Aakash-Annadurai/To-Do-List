@@ -1,8 +1,47 @@
-# React + Vite
+## Table of contents
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- React
+
+
+
+### What I learned
+
+React is complex and yet easy to use once you grasp the concept. I learned to Divide components and how to use hooks for State change.
+
+### Continued development
+
+CSS and styling in general is still a challenge for me. So, Practicing styling is my top priority for now.
+
+
+### Useful resources
+
+- https://www.w3schools.com/ - This is an amazing page which helped me finally understand what syntax to use for each case. I'd recommend it to anyone still learning this HTML, CSS, React.
+
+
+## Author
+
+- Website - [Aakash Annadurai](https://github.com/Aakash-Annadurai)
+
+
+
